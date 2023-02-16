@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deal-app/scraper.git"
+  },
+  "author": "AidasA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deal-app/scraper/issues"
+  },
+  "homepage": "https://github.com/deal-app/scraper#readme",
+  "dependencies": {
+    "chromedriver": "^110.0.0",
+    "selenium-webdriver": "^4.8.0"
+  }
+}
